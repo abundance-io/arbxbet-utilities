@@ -1,4 +1,0 @@
-dnspython
-pymongo
-flask
-bson
